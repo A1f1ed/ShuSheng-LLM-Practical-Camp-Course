@@ -10,7 +10,13 @@
 
 
 ## L0-完成情况：
-![39d48e38ba49cfaf602762e86740d3f](https://github.com/user-attachments/assets/d34c6d50-d22e-4cb0-b0ab-dd1cc63e0a02)
+##### SSH连接：
+![0ec72010b0725803bdb5322e48e7dd7](https://github.com/user-attachments/assets/a689fc46-db2a-4bfe-817e-8331c83f1db8)
+##### 端口映射：
+![7a7c7198dc96bae95cd106cc8035636](https://github.com/user-attachments/assets/4d19a3a5-0f40-405a-a0fa-8ac738335465)
+
+##### 运行hello_world.py:
+![75ee8b0dd4f05e4d9a4625432dd1b49](https://github.com/user-attachments/assets/ac10bd17-207d-4978-a9ae-99629dc5fc75)
 
 
 

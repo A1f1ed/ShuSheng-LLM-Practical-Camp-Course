@@ -16,7 +16,6 @@
 ![7a7c7198dc96bae95cd106cc8035636](https://github.com/user-attachments/assets/4d19a3a5-0f40-405a-a0fa-8ac738335465)
 
 ##### 运行hello_world.py:
-![75ee8b0dd4f05e4d9a4625432dd1b49](https://github.com/user-attachments/assets/ac10bd17-207d-4978-a9ae-99629dc5fc75)
-
+![fde8fdf2ec1cdf13c68cb1c98e236d8](https://github.com/user-attachments/assets/2b2b70b4-bd86-4958-aeee-9ed0ada0695b)
 
 
